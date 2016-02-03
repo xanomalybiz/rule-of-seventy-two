@@ -1,0 +1,66 @@
+/* CSS Document */
+#calc_submit
+{
+	margin: 20px 0px;
+	text-align:right;	
+}
+#forme-msg
+{
+	margin: 10px 0;	
+}
+#poweredByXanomaly
+{
+	text-align:right;	
+}
+#findOutMore
+{
+	text-align:left;
+}
+#ruleTitle
+{
+	margin-bottom: 5px;	
+}
+#poweredByXanomaly, #findOutMore
+{
+		text-decoration:underline;
+}
+/* unvisited link */
+#poweredByXanomaly:link, #findOutMore:link
+{
+    
+}
+
+/* visited link */
+#poweredByXanomaly:visited, #findOutMore:link
+{
+  
+}
+
+/* mouse over link */
+#poweredByXanomaly:hover, #findOutMore:link 
+{
+    
+}
+
+/* selected link */
+#poweredByXanomaly:active, #findOutMore:link
+ {
+
+}
+.xFont
+{
+	font-family: Trade Winds;
+}
+#secondHalfLogo
+{
+	font-family: montserrat;	
+}
+#subscribe-xanomaly-link
+{
+	float:right;	
+}
+#subscribe-xanomaly-link h4
+{
+	font-size:0.75em;
+	
+}
